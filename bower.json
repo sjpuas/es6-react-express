@@ -1,0 +1,10 @@
+{
+  "name": "es6-react-express",
+  "version": "0.0.1",
+  "main": "index.html",
+  "author": "Sergio Puas <sergio@puas.cl>",
+  "ignore": [],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.5"
+  }
+}
